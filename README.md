@@ -6,12 +6,13 @@
 <br /><br />
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andremrufino&hide=stars,issues,contribs&theme=transparent&show_icons=true&count_private=true)
 
 
-<!-- 
-TENHO QUE ALTERAR ISSO AQUI PARA APARECER OS MEUS DADOS DO GITHUB
-<a href="https://github.com/andremrufino/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=augustin7698&theme=blue-green">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=augustin7698"/>
-</a> 
--->
+<!--
+<img width=470 src="images/giphy.gif">
+
+<p align="left">
+    <img width=470 src="images/giphy.gif">
+</p> -->
+
